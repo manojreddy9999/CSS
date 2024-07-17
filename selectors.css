@@ -1,0 +1,29 @@
+/* Element selector */
+h1
+{
+    color: blue;
+    background-color: red;
+}
+p{
+    color:red;
+    background-color: orange;
+}
+.abc{
+    background-color: aqua;
+    color: red;
+}
+/*ID selector*/
+#para{
+    color: yellow;
+    background-color: greenyellow;
+}
+
+/*Universal selector*/
+*{
+    background-color: aqua;
+}
+
+/*Group selector*/
+h1,p{
+color: black;
+}

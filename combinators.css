@@ -1,0 +1,28 @@
+/* descendant combinator*/
+/*div p{
+    color: aqua;
+    background-color: blueviolet;
+}*/
+
+/*child combinator*/
+/*div>p{
+color: aqua;
+background-color: blueviolet;
+}
+
+/*adjacent sibling combinator*/
+/*div+p{
+    color: aqua;
+    background-color: blueviolet;
+}
+
+/*general sibling selector*/
+/*div~p{
+    color: aqua;
+    background-color: blueviolet;
+}*/
+
+div p,div h1{
+    color: black;
+    background-color: blueviolet;
+}

@@ -1,0 +1,11 @@
+#img1{
+    transform: translate(200px,200px);
+    transform: translateX();
+    transform: rotate(170deg);
+    /* transform: skew(-50deg); */
+    /* transform: scale(2,3); */
+
+}
+#img1:hover{
+    transform: rotate(180deg);
+}

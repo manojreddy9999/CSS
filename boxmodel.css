@@ -1,0 +1,29 @@
+h1{
+    border-width: 5px ;
+    /*border-style: dashed;*/
+    /*border-top-style: ridge;
+    border-right-style: dashed;
+    border-bottom-style: double;
+    border-left-style: groove;*/
+    border-style: dashed dotted groove double;
+
+    /* border-color: red; 
+    border-top-color: aqua;
+    border-right-color: brown;
+    border-bottom-color: bisque;
+    border-left-color: aquamarine; */
+    border-color: red blue violet pink;
+
+    border-width: 5px;
+    /* border-radius: 10px;
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left:  30px; */
+    padding: 10px 20px 30px 40px;
+    margin: 40px 40px 40px 40px ;
+}
+div{
+    
+}

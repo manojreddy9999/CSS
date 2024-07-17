@@ -1,0 +1,21 @@
+p::selection{
+    background-color: burlywood;
+    color: brown;
+}
+
+/*p::first-line{
+    color: red;
+}*/
+
+/*p::first-letter{
+    font-size: 50px;
+}*/
+
+li::marker{
+    color: blueviolet;
+    font-size: larger;
+}
+
+p::before{
+    content: "para:-";
+}

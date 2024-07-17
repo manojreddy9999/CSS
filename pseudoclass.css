@@ -1,0 +1,68 @@
+/*a:link {
+    color: darkgreen;
+}
+
+#link2:visited
+{
+color: pink;
+}
+
+#link1:active
+{
+    color: brown;
+}
+
+p:hover
+{
+    color: ghostwhite;
+    background-color: black;
+
+}
+span:hover{
+color: blue
+}
+
+#reddy:hover
+{
+    height: 100px;
+    width: 200px;
+    border: 20px solid red;
+}
+
+div:hover{
+    background-color: yellowgreen;
+}
+
+#manojreddy:hover
+{
+    color: aqua;
+    background-color: rgb(12, 10, 10);
+}*/
+
+/*p:first-child
+{
+    color: aqua;
+}*/
+
+/*p:last-child
+{
+    color: brown;
+    background-color: aqua;
+}*/
+
+li:nth-child(odd){
+    color: white;
+    background-color: black;
+
+}
+
+input:focus{
+    color: red;
+    background-color: black;
+}
+
+input:checked{
+    accent-color: red;
+    height: 10px;
+    width: 10px;
+}

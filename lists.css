@@ -1,0 +1,24 @@
+#ol1{
+    /* list-style-type: upper-alpha; */
+    /* list-style-image: url(../html/images/tanjiro-icegif-1.gif); */
+    /* padding-left: 100px; */
+    background-color: aqua;
+}
+#ol2{
+    /* list-style-type: upper-alpha; */
+    /* list-style-image: url(../html/images/tanjiro-icegif-1.gif); */
+    /* padding-left: 600px; */
+    background-color: black;
+}
+#ol3{
+    /* list-style-type: upper-alpha; */
+    /* list-style-image: url(../html/images/tanjiro-icegif-1.gif); */
+    /* padding-left: 600px; */
+    background-color: brown;
+}
+#ol3,#ol2,#ol1 li{
+
+    color: violet;
+    list-style-position: outside;
+}
+

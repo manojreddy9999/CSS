@@ -1,0 +1,16 @@
+/* div{ */
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    /* position: static; */
+    /* position: absolute; */
+    /* position: relative; */
+    /* position: fixed; */
+    /* position: sticky;
+    top: 100px;
+} */
+
+div{
+    position: sticky;
+    top: 100px;
+}

@@ -1,0 +1,26 @@
+/*h1,p{
+    background-color: aqua;
+}*/
+div{
+    border: 4px solid yellowgreen;
+    background-image: url(../html/images/tanjiro-icegif-1.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#a{
+    
+width: 100% ;
+border: 2px solid blue;
+background-image: url(../html/images/tanjirofs.avif);
+background-position: right center;
+background-repeat: no-repeat;
+}
+
+#b{
+
+    width: 50%;
+    border: 2px solid black;
+}
